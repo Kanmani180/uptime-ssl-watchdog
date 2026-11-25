@@ -2,6 +2,9 @@
 
 A small real-time monitoring app. A Python (FastAPI) backend checks your sites every 10 seconds in a background thread, and a dark-mode dashboard (plain HTML, CSS and JavaScript, no build step) refreshes itself every 5 seconds.
 
+<img width="1766" height="987" alt="image" src="https://github.com/user-attachments/assets/45bcac75-5b0e-4cbb-aa94-735f345e315b" />
+
+
 ## Features
 
 - Background checks of every monitored URL every 10 seconds, run in parallel
