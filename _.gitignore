@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# App data (persisted URL list)
+data/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+.env
